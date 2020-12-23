@@ -1,4 +1,4 @@
-# Minimalism in life
+# Git Minimalism
 <img align="left" src="https://orhun.dev/img/crow.png">
  
 [![Discord](https://img.shields.io/badge/-@MrF-313131?style=for-the-badge&labelColor=313131&logo=Discord&logoColor=white&color=313131)](https://discord.com/channels/752183732714078250/)
